@@ -12,10 +12,6 @@ The project is currently in the development phase, and we are working hard to cr
 
 ## Developing
 
-### Prerequisites
-
-The 
-
 ### Conventional Commits
 
 We can use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit messages, so that we can automatically generate changelogs.
