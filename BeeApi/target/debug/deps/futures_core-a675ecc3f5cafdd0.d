@@ -1,0 +1,11 @@
+/Users/gauslaa/Documents/eik/BeeConnect/BeeApi/target/debug/deps/futures_core-a675ecc3f5cafdd0.rmeta: /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/lib.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/future.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/stream.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/mod.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/poll.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/__internal/mod.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/__internal/atomic_waker.rs
+
+/Users/gauslaa/Documents/eik/BeeConnect/BeeApi/target/debug/deps/futures_core-a675ecc3f5cafdd0.d: /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/lib.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/future.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/stream.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/mod.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/poll.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/__internal/mod.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/__internal/atomic_waker.rs
+
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/lib.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/future.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/stream.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/mod.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/poll.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/__internal/mod.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.26/src/task/__internal/atomic_waker.rs:
