@@ -1,13 +1,8 @@
-use diesel::prelude::*;
+// @generated automatically by Diesel CLI.
 
-#[derive(Queryable)]
-pub struct Measurement {
-    pub id: i32,
-    pub temp: i32,
-}
-
-#[derive(Insertable)]
-#[table_name = "measurements"]
-pub struct NewMeasurment {
-    pub temp: i32,
+diesel::table! {
+    hellos (id) {
+        id -> Int4,
+        temp1x1x1 -> Float4,
+    }
 }

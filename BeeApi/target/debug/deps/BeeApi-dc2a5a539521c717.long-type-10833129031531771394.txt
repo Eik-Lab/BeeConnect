@@ -1,0 +1,1 @@
+InsertStatement<table, query_builder::insert_statement::ValuesClause<(DefaultableColumnInsertValue<ColumnInsertValue<columns::id, diesel::expression::bound::Bound<Integer, &i32>>>, DefaultableColumnInsertValue<ColumnInsertValue<columns::temp1x1x1, diesel::expression::bound::Bound<diesel::sql_types::Float, &f32>>>), table>>
