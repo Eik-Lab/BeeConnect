@@ -37,6 +37,7 @@ async fn main() -> std::io::Result<()> {
         App::new()
             .service(hello)
             .service(insert_hello)
+            .service(get_data)
             .app_data(Data::new(pool.clone()))
     })
     .bind(("127.0.0.1", 8080))?
@@ -44,20 +45,29 @@ async fn main() -> std::io::Result<()> {
     .await
 }
 
-// Three functions to display how open pages
 #[get("/")]
 async fn hello() -> impl Responder {
     HttpResponse::Ok().body("Hello world!")
 }
 
 #[actix_web::post("/data")]
-async fn insert_hello(
-    web::Json(data): web::Json<Hello>,
-    pool: web::Data<Pool>,
-) -> actix_web::HttpResponse {
+async fn insert_hello(web::Json(data): web::Json<Hello>, pool: web::Data<Pool>) -> impl Responder {
     let conn = &mut pool.get().unwrap();
+    dbg!(&data);
     diesel::insert_into(crate::schema::hellos::table)
         .values(data)
-        .execute(conn);
+        .execute(conn)
+        .expect("Could not post data");
     HttpResponse::Ok().finish()
+}
+
+#[actix_web::get("/data")]
+async fn get_data(pool: web::Data<Pool>) -> impl Responder {
+    let conn = &mut pool.get().unwrap();
+    //let data = hellos.load::<Hello>(conn).expect("Error loading hellos");
+    let data = crate::schema::hellos::table
+        .load::<Hello>(conn)
+        .expect("Error loading hellos");
+    dbg!(&data);
+    actix_web::HttpResponse::Ok().json(data)
 }

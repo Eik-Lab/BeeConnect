@@ -1,0 +1,15 @@
+[package]
+name = "bucket"
+version = "0.1.0"
+edition = "2021"
+licence = ""
+repository = ""
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.25.0", features = ["full"] }
+aws-creds = "0.34.0"
+aws-region = "0.25.1"
+rust-s3 = "0.33.0-beta"
