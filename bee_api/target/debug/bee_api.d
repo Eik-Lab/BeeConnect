@@ -1,0 +1,1 @@
+/Users/gauslaa/Documents/eik/BeeConnect/bee_api/target/debug/bee_api: /Users/gauslaa/Documents/eik/BeeConnect/bee_api/src/main.rs /Users/gauslaa/Documents/eik/BeeConnect/bee_api/src/models.rs /Users/gauslaa/Documents/eik/BeeConnect/bee_api/src/schema.rs

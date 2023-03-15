@@ -1,0 +1,10 @@
+/Users/gauslaa/Documents/eik/BeeConnect/bee_api/target/debug/deps/alloc_no_stdlib-73591462a6ad35a9.rmeta: /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs
+
+/Users/gauslaa/Documents/eik/BeeConnect/bee_api/target/debug/deps/alloc_no_stdlib-73591462a6ad35a9.d: /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs
+
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs:

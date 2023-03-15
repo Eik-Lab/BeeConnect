@@ -1,0 +1,12 @@
+/Users/gauslaa/Documents/eik/BeeConnect/bee_api/target/debug/deps/minidom-9b8af7b39c3095db.rmeta: /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/lib.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/convert.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/element.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/error.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/namespaces.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/node.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/prefixes.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/tree_builder.rs
+
+/Users/gauslaa/Documents/eik/BeeConnect/bee_api/target/debug/deps/minidom-9b8af7b39c3095db.d: /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/lib.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/convert.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/element.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/error.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/namespaces.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/node.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/prefixes.rs /Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/tree_builder.rs
+
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/lib.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/convert.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/element.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/error.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/namespaces.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/node.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/prefixes.rs:
+/Users/gauslaa/.cargo/registry/src/github.com-1ecc6299db9ec823/minidom-0.15.1/src/tree_builder.rs:
